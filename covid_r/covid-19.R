@@ -1,0 +1,1 @@
+data <- read.csv("C:/Users/pjwong/OneDrive/Desktop/covid_r/COVID19_line_list_data.csv")
